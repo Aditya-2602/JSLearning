@@ -23,3 +23,14 @@ let sum = function(){
      console.log(`Sum of first 20 numbers is : ${totalSum}`);
  }
  sum();
+
+ // sum of numbers from 1 to 10
+ function add(){
+    let sum = 0;
+    for (let index = 1; index <=10; index++) {
+        sum = sum + index;
+        
+    }
+    console.log(`Sum of numbers from 1 to 10 is ${sum}`);
+ }
+ add();

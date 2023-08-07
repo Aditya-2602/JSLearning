@@ -35,7 +35,10 @@ function oddPositionedChars(string){
     }
     console.log(`Odd positioned characters are${str}`);
 }
-oddPositionedChars("Hard work always pays back")
+oddPositionedChars("Hard work always pays back");
 oddPositionedChars("Soon I will be Angular IT Champ");
+
+
+
 
 
