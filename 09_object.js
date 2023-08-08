@@ -1,6 +1,6 @@
 
 
-let personGK = {
+ let personGK = {
     empId: 2233,
     state: "MH",
     designation: "Tech Lead",
