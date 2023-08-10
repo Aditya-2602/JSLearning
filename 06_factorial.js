@@ -25,3 +25,19 @@ function factorial(num) {
 factorial(5);
 
 console.log(`Factorial using recursion is the: ${fact}`);
+
+//Assignment:  WAP to find the factorial of numbers: 5, 9, 11, 7
+ function facto(num){
+  let res = 1; 
+  for (let index = 1; index <=11; index++) {
+    res = res * index;
+    
+  }
+  console.log(res);
+ }
+ facto(11);
+ 
+
+ 
+
+
