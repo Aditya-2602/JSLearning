@@ -56,8 +56,8 @@ for (const employee of arrayEmployees) {
 }
 
 console.log(`----------Step 6 -----------`);
-for (const employee of arrayEmployees) {
-    if (employee.emp_company=="Infy") {
-        console.log(employee);
+for (const value of arrayEmployees) {
+    if (value.emp_company=="Infy") {
+        console.log(value);
     }
 }

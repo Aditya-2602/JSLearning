@@ -40,10 +40,10 @@ class Vehicle {
    let collegejspm = new College("JSPM","Hadapsar","Mr.Sawant sir",2006,"BBA");
    let collegevit = new College("VIT","Kondhwa","Mr.Lokhande sir",2005,"MBBS");
 
-  collegeTrinity.display();
-  collegesinhgad.display();
-  collegejspm.display();
-  collegevit.display();
+  // collegeTrinity.display();
+  // collegesinhgad.display();
+  // collegejspm.display();
+  // collegevit.display();
 
   console.log(`-------------------------------------------------`);
   function traverseObject(object) {
