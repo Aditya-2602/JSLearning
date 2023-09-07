@@ -27,12 +27,12 @@ for (let index = 0; index < arrayNumbers.length; index++) {
 }
 
 console.log(`Odd positioned elements are`);
-    let sumation = 0;
+   //  let sumation = 0;
 for (let index = 0; index < arrayNumbers.length; index++) {
-        let char = arrayNumbers[index];
-   if (index%2==0) {
+      //   let char = arrayNumbers[index];
+   if (index%2!==0) {
       console.log(arrayNumbers[index]);
-    addition = addition + char;
+   //  addition = addition + char;
       
    }
    
